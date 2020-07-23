@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Adapter\Adapter\obj\Debug\Adapter.pdb

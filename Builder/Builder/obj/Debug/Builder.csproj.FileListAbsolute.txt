@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Builder\Builder\obj\Debug\Builder.pdb

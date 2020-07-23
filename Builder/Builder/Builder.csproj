@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CriadorDeForcasEspeciais.cs" />
+    <Compile Include="CriadorDeInfantariaLeve.cs" />
+    <Compile Include="CriadorDeSoldado.cs" />
+    <Compile Include="Exercito.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soldado.cs" />
+    <Compile Include="SoldadoDeForcasEspeciais.cs" />
+    <Compile Include="SoldadoDeInfantariaLeve.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

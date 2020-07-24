@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Facade\Facade\obj\Debug\Facade.pdb

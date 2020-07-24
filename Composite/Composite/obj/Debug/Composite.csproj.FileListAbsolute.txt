@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\bin\Debug\Composite.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Composite\Composite\obj\Debug\Composite.pdb

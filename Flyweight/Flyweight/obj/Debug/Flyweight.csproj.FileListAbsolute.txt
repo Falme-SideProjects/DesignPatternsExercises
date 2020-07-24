@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Flyweight\Flyweight\obj\Debug\Flyweight.pdb

@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\Interpreter\Interpreter\obj\Debug\Interpreter.pdb

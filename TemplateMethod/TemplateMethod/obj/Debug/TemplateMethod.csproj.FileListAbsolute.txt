@@ -1,0 +1,7 @@
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\falme\Documents\Projects\DesignPatternsExercises\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
